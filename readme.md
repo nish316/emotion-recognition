@@ -1,6 +1,6 @@
-# Project Name
+# Emotion Recognition
 
- Add short description of project here > 
+ Add short description of project here > This project recognizes the emotion of a person using imageNet, which will learn how a person's face looks when they show different emotions.
 
 ![add image descrition here](direct image link here)
 
